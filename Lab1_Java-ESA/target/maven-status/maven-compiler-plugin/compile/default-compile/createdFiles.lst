@@ -1,0 +1,4 @@
+org\example\entity\Alien.class
+org\example\servlets\AlienServlet.class
+org\example\beans\AlienBean.class
+org\example\entity\Race.class
